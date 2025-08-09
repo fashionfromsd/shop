@@ -1,33 +1,4 @@
 {
-  "adminCredentials": {
-    "password": "a",
-    "username": "Admin"
-  },
-  "categories": {
-    "men fashion": {
-      "shirts": {
-        "1754287389755": true
-      },
-      "t-shirts": {
-        "1754287329264": true
-      }
-    },
-    "women fashion": {
-      "shirts": {
-        "1754398167280": true
-      }
-    }
-  },
-  "paymentLinks": {
-    "live": {
-      "link": "Live",
-      "on": true
-    },
-    "manual": {
-      "link": "my",
-      "on": false
-    }
-  },
   "products": {
     "1754287329264": {
       "desc": "\"This is a blue color cotton tshirt\"",
@@ -51,50 +22,4 @@
       "price": 500
     }
   },
-  "promos": {
-    "EID30": {
-      "bonus": 5,
-      "code": "EID30",
-      "for": "All",
-      "minSpent": 800,
-      "type": "percent",
-      "upTo": 200
-    },
-    "Free20": {
-      "bonus": 30,
-      "code": "Free20",
-      "for": "All",
-      "minSpent": 80,
-      "type": "amount",
-      "upTo": 30
-    },
-    "ROJA999": {
-      "bonus": 10,
-      "code": "ROJA999",
-      "for": "All",
-      "minSpent": 500,
-      "type": "percent",
-      "upTo": 60
-    }
-  },
-  "users": {
-    "HHPQKM8xa4Yjw9rQXqWdsKJ1DHB3": {
-      "cart": {
-        "1754287329264": {
-          "desc": "This is a blue color cotton tshirt",
-          "discount": 8,
-          "image": "https://m.media-amazon.com/images/I/91V12ufIXRL._UY1100_.jpg",
-          "name": "Tshirt",
-          "price": 25000,
-          "qty": 1
-        }
-      }
-    },
-    "onlineshope8001": {
-      "blocked": false
-    },
-    "onlineshope999": {
-      "blocked": true
-    }
-  }
 }
