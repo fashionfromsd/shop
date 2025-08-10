@@ -19,5 +19,26 @@
     "image": "https://images.squarespace-cdn.com/content/v1/5ee52f7d9edc8a7ee635591a/8df50655-6b68-460e-ad6c-5230001b9d5a/240404+-+063944+-+001.jpg",
     "name": "\"This is a blue color cotton tshirt\"",
     "price": 500
+  },
+  "17564": {
+    "desc": "\"This is a blue color cotton tshirt\"",
+    "discount": 8,
+    "image": "https://images.squarespace-cdn.com/content/v1/5ee52f7d9edc8a7ee635591a/8df50655-6b68-460e-ad6c-5230001b9d5a/240404+-+063944+-+001.jpg",
+    "name": "\"This is a blue color cotton tshirt\"",
+    "price": 25000
+  },
+  "1754": {
+    "desc": "This is a red color cotton shirt",
+    "discount": 1,
+    "image": "https://images.squarespace-cdn.com/content/v1/5ee52f7d9edc8a7ee635591a/8df50655-6b68-460e-ad6c-5230001b9d5a/240404+-+063944+-+001.jpg",
+    "name": "\"This is a blue color cotton tshirt\"",
+    "price": 5600
+  },
+  "167280": {
+    "desc": "\"This is a blue color cotton tshirt\"",
+    "discount": 5,
+    "image": "https://images.squarespace-cdn.com/content/v1/5ee52f7d9edc8a7ee635591a/8df50655-6b68-460e-ad6c-5230001b9d5a/240404+-+063944+-+001.jpg",
+    "name": "\"This is a blue color cotton tshirt\"",
+    "price": 500
   }
 }
